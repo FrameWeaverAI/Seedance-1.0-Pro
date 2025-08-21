@@ -46,10 +46,6 @@ Experience Seedance 1.0 Pro here: [https://www.seedancepro.net](https://www.seed
 | ![图1](./assets/1.jpg) | ![图2](./assets/2.jpg) |
 | ---------------------- | ---------------------- |
 
-  <p align="center">
-    <img src="./assets/1.jpg" width="45%" />
-    <img src="./assets/2.jpg" width="45%" />
-</p>
 - **Inference Speed:** With multi-stage distillation and system-level optimizations, Seedance achieves ~10× acceleration, producing a 5-second 1080p video in ~41.4 seconds.
 
 ---
