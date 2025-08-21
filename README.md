@@ -42,6 +42,11 @@ Experience Seedance 1.0 Pro here: [https://www.seedancepro.net](https://www.seed
 
 - **Internal Benchmark (SeedVideoBench-1.0):** Ranked top in instruction following, motion quality, and aesthetics for both T2V and I2V tasks.
 - **Third-Party Evaluation (Artificial Analysis):** As of June 9, 2025 (GMT+8), Seedance ranked among the leading models.
+![](./assets/1.jpg) ![](./assets/2.jpg)
+  <p align="center">
+    <img src="./assets/1.jpg" width="45%" />
+    <img src="./assets/2.jpg" width="45%" />
+</p>
 - **Inference Speed:** With multi-stage distillation and system-level optimizations, Seedance achieves ~10× acceleration, producing a 5-second 1080p video in ~41.4 seconds.
 
 ---
