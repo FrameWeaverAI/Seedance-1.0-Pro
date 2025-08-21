@@ -6,7 +6,7 @@ Seedance 1.0 Pro is a high-performance video generation model developed by ByteD
 
 ## Official Video Showcase
 
-<video src="./assets/Seedance-1-0-pro.mp4" autoplay="false" controls="controls"></video>
+<video src="https://resp.hailuo2.com/hailuo/video/Seedance-1-0-pro.mp4" autoplay="false" controls="controls"></video>
 
 ## Core Features
 
